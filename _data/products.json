@@ -1,6 +1,6 @@
 {
     "id": "prod_H1xecZzE1wdQl8",
-    "name": "Virtual AppSec Days April 2020",
+    "name": "Virtual AppSec Days July 2020",
     "currency": "usd",
     "products": [
         {
@@ -156,7 +156,7 @@
             "amount": 0,
             "metadata": {
                 "type": "regular",
-                "description": "<p>Join AppSec experts on April 27th for a series of short talks. This part of the program is a $FREE Webinar</p>",
+                "description": "<p>Join AppSec experts on July 27th for a series of short talks. This part of the program is a $FREE Webinar</p>",
                 "display_order": "34",
                 "discountable": "False",
                 "display_end": "2020-04-26"
