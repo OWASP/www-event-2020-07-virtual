@@ -38,7 +38,7 @@ layout: event
   }]
 }
 </script>
-<!-- rebuild 10-->
+<!-- rebuild 11-->
 
 {{ site.data.event-details.pitch | markdownify }}
 
