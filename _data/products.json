@@ -101,6 +101,17 @@
                 "discountable": "True",
                 "display_order": "9"
             }
+        },
+        {
+            "id": "sku_HOtyN2o1R15Pz7",
+            "name": "Training: Data Privacy and Security Assessment in the Cloud using MITRE ATT&CK and OWASP Tools",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This workshop explores ways to include data privacy in the data security assessment in the cloud. Attendees will come away with an understanding of how to combine data privacy impact assessment (DPIA) methodology with data security assessment to produce a more rigorous and actionable toolset for management and weighing data privacy protections. <strong><em>Presented by Mauricio Tavares &amp; Valdez Ladd</em></strong></p>",
+                "discountable": "True",
+                "display_order": "10"
+            }
         }
     ]
 }
