@@ -13,6 +13,17 @@
                 "discountable": "True",
                 "display_order": "1"
             }
+        },
+        {
+            "id": "sku_HOtp0eVxTbZwFj",
+            "name": "Training: From OWASP Top 10 to Command Shell",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>This will be a hands-on lab driven technical deep-dive.  From XSS, SQLi, To Complete System Compromise. We will examine several common OWASP Top 10 vulnerabilities, then go deeper by obtaining shell access, then root/system level control of the owned devices. These techniques are often game-changers when explaining the vulnerabilities to others. <strong><em>Presented by Keatron Evans</em></strong></p>",
+                "discountable": "True",
+                "display_order": "2"
+            }
         }
     ]
 }
