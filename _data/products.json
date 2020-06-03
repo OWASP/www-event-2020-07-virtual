@@ -1,1 +1,18 @@
-{"id": "prod_HOtmfO0tKsIzdg", "name": "July Virtual AppSec Days Summer of Security", "currency": "usd", "products": []}
+{
+    "id": "prod_HOtmfO0tKsIzdg",
+    "name": "July Virtual AppSec Days Summer of Security",
+    "currency": "usd",
+    "products": [
+        {
+            "id": "sku_HOtoAiWFO6u23G",
+            "name": "Training: Hacking Modern Web apps: Master the Future of Attack Vectors",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email support and lifetime access to training portal with step-by-step video recordings. <strong><em>Presented by Abraham Aranguren</em></strong></p>",
+                "discountable": "True",
+                "display_order": "1"
+            }
+        }
+    ]
+}
