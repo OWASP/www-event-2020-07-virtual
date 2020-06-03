@@ -112,6 +112,17 @@
                 "discountable": "True",
                 "display_order": "10"
             }
+        },
+        {
+            "id": "sku_HOtzSxdpFJbvJB",
+            "name": "Training: OWASP DefectDojo - the Heart of your AppSec Automation",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>DefectDojo is your one source of truth and the heart of AppSec automation programs. It handles security issues, report generation, aggregation of over 70 security tools, inventory of applications, metrics and more. DefectDojo helped increase in assessments from 44 to 414 in two years for one program. Time to ditch spreadsheets and get DefectDojo.<strong><em>Presented by Matt Tesauro</em></strong></p>",
+                "discountable": "True",
+                "display_order": "11"
+            }
         }
     ]
 }
