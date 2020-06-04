@@ -1,24 +1,396 @@
-﻿# - Type: Training
-#   Trainers:
-#     - Name: Sebastien Deleersnyder
-#       Email: seba@toreon.com
-#       Image: https://owasp.wufoo.com/cabinet/3627cfa5-3b87-4973-8d5e-110013c0c524
-#       Twitter: 'Sebadele'
-#       Biography: >-
-#         Seba is co-founder and CEO of Toreon. He started the Belgian OWASP chapter,
-#         co-leads the OWASP SAMM project, and co-founded the yearly BruCON
-#         conference. With a background in development and many years of experience in
-#         security, Seba has trained countless developers to create more secure
-#         software. He adapts application security models to the evolving field of
-#         DevOps and brings Threat Modeling to a wider audience (including teaching
-#         Whiteboard Hacking at Black Hat).
-#       TrainerId: sebastien_deleersnyder
-#   Title: Hands-on threat modeling and tooling for DevSecOps
-#   URL: /register/?id=sku_H1yCWioFa4VeId
-#   SectionId: sku_H1yCWioFa4VeId
-#   Description: >-
-#     Action-packed Threat Modeling course for DevOps to improve reliability &
-#     security of software. We teach a risk-based, iterative and incremental
-#     threat modeling method. At least 50% hands-on workshops covering the
-#     different stages of threat modeling on an incremental business driven CI/CD
-#     scenario for AWS. 94% satisfaction score O’Reilly Velocity.
+﻿- Type: Training
+  Trainers:
+    - Name: Abraham Aranguren
+      Email: admin@7asecurity.com
+      Image: /assets/images/trainers/trainer-abraham-aranguren.png
+      Twitter: 7ASecurity
+      Biography: "After 13 years in itsec and 20 in IT Abraham is now the CEO of 7ASecurity (7asecurity.com), a company specializing 
+        in penetration testing of web/mobile apps, infrastructure, code reviews and training. Former senior penetration tester / team 
+        lead at Cure53 (cure53.de) and Version 1 (www.version1.com). Creator of 'Practical Web Defense' - a hands-on eLearnSecurity 
+        attack / defense course (www.elearnsecurity.com/PWD), OWASP OWTF project leader, an OWASP flagship project (owtf.org), Major 
+        degree and Diploma in Computer Science, some certs: CISSP, OSCP, GWEB, OSWP, CPTS, CEH, MCSE:Security, MCSA:Security, 
+        Security+. As a shell scripting fan trained by unix dinosaurs, Abraham wears a proud manly beard. He writes on Twitter as 
+        @7asecurity @7a_ @owtfp or https://7asecurity.com/blog. Multiple presentations, pentest reports and recordings can be found 
+        at https://7asecurity.com/publications"
+      TrainerId: abraham_aranguren
+  Title: "Hacking Modern Web apps: Master the Future of Attack Vectors"
+  URL: /register/?id=sku_HOtoAiWFO6u23G
+  SectionId: sku_HOtoAiWFO6u23G
+  Description: "All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your 
+        workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued 
+        education via unlimited email support and lifetime access to training portal with step-by-step video recordings."
+- Type: Training
+  Trainers:
+    - Name: Keatron Evans
+      Email: kevans@kmcybersecurity.com
+      Image: /assets/images/trainers/trainer-keatron-evans.jpg
+      Twitter: kmcybersecurity
+      Biography: "Keatron Evans is the Managing Partner at KM Cyber Security, LLC, https://kmcybersecurity.com, and responsible for 
+                global information security consulting business which includes penetration testing, cyber threat hunting, digital forensics, 
+                and training. He regularly consults for and trains members of the intelligence community of the US and other governments in 
+                offensive cyber operations and works on several classified threat hunting operations each year. Keatron is also one of the 
+                authors of the award-winning Certified Ethical Hacking course administered by the Infosec Institute. Additionally, he is the 
+                lead author of Chained Exploits: Advancing Hacking Attacks from Start to Finish, a textbook still used for offensive training 
+                throughout academic and corporate communities."
+      TrainerId: keatron_evans
+  Title: From OWASP Top 10 To Command Shell
+  URL: /register/?id=sku_HOtp0eVxTbZwFj
+  SectionId: sku_HOtp0eVxTbZwFj
+  Description: "Course Outline:<br>
+        Discovery and Reconnaissance Tools Mastery<br>
+        <ol>
+        <li>Learn how to use basic discovery tools such as Nmap, Hping3 and others to find reachable ports and services.
+            <ol> 
+                <li>30-minute lecture and demonstration</li>
+                <li>30 minute lab session</li>
+            </ol>
+        </li>
+        <li>Learn how to enumerate services to identify version information and service footprints.
+            <ol> 
+                <li>30-minute lecture and demonstration</li>
+                <li>30-minute lab session</li>
+            </ol>
+        </li>
+        <li>After applications are discovered learn how to map application functionality and establish potential vulnerability profiles. 
+            <ol>
+                <li>30-minute lecture and demonstration</li>
+                <li>1 hour lab session</li> 
+            </ol>
+        </li>
+        </ol>
+        Web App Exploitation Tools and Techniques Mastery<br>
+        <ol>
+        <li>Learn how to map potential vulnerabilities to known exploits and exploit vectors.
+            <ol> 
+                <li>30-minute lecture and demonstration</li>
+                <li>30-minute lab session</li>
+            </ol>
+        </li>
+        <li>Learn how to Exploit Discovered Web Application Vulnerabilities
+            <ol> 
+                <li>30-minute lecture</li>
+                <li>1 hour lab session</li>
+            </ol>
+        </li>
+        </ol>
+        Owning the OS from the Web App (All Hands on Walkthrough Lab sessions) - 2 hours<br>
+        <ol>
+        <li> Getting a shell via the web app vulnerability</li>
+        <li>Privilege Escalation via Powershell</li>
+        <li>15-minute break</li>
+        <li>Creating your own backdoor from scratch</li>
+        <li>Privilege Escalation via the created backdoor</li>
+        </ol>"
+- Type: Training
+  Trainers:
+    - Name: Michael Furman
+      Email: furman.michael@gmail.com
+      Image: /assets/images/trainers/trainer-michael-furman.jpg
+      Twitter: ultimatesecpro
+      Biography: "Michael Furman has over 13 years of experience with application 
+        security.<br>
+        Michael Furman has been the Lead Security Architect at Tufin for over 6 
+        years. He is responsible for the security of all Tufin software products.<br>
+        Tufin has over 2000 customers, including over half of the Fortune 50 
+        organizations."
+      TrainerId: michael_furman
+  Title: Solve Your Security Requirements with Keycloak
+  URL: /register/?id=sku_HOtqQKlddOTSrk
+  SectionId: sku_HOtqQKlddOTSrk
+  Description: "Have you started to create your Web Application?<br>
+    Have You tired of solving different security requirements?<br>
+    Like support of Brute Force Protection, Password Policy, Two-Factor Authentication etc.?<br>
+    We have the solution for you!<br>
+    Have you heard about Keycloak?<br>
+    Keycloak is open source Identity and Access Management solution.<br>
+    Please join the training and you will see how to adopt Keycloak.<br>
+    You will learn how to easy add to your Web Application different security 
+    features like Brute Force Protection, Password Policy, Two-Factor Authentication 
+    and more."
+- Type: Training
+  Trainers:
+    - Name: Tanya Janca
+      Email: tanya.janca@owasp.org
+      Image: /assets/images/trainers/trainer-tanya-janca.jpg
+      Twitter: shehackspurple
+      Biography: "Tanya Janca, also known as ‘SheHacksPurple’, is the founder, 
+        security trainer and coach of SheHacksPurple.dev, specializing in software 
+        and cloud security. Her obsession with securing software runs deep, from 
+        starting her company, to running her own OWASP chapter for 4 years in Ottawa,
+         co-founding a new OWASP chapter in Victoria, and co-founding the OWASP 
+         DevSlop open-source and education project. With her countless blog articles, 
+         workshops and talks, her focus is clear. Tanya is also an advocate for 
+         diversity and inclusion, co-founding the international women’s organization 
+         WoSEC, starting the online #CyberMentoringMonday initiative, and personally 
+         mentoring, advocating for and enabling countless other women in her field. 
+         As a professional computer geek of 20+ years, she is a person who is truly 
+         fascinated by the ‘science’ of computer science."
+      TrainerId: tanya_janca
+  Title: Application Security 101
+  URL: /register/?id=sku_HOts6ZxZnmJERL
+  SectionId: sku_HOts6ZxZnmJERL
+  Description: "<ol><li>What is AppSec, What is DevSecOps, Why do they matter? - A tiny bit of history, quite a few definitions.</li>
+    <li>The Goals of any AppSec Program - We will set our own goals to bring back to work, which we will add to, update, improve and plan throughout the training.</li>
+    <li>Types of AppSec Activities - What do they actually mean, how to do you do them and which ones do you *need* to do.</li>
+    <li>Types of AppSec Tooling, what they do, when you may or may not need them, approximate costs for budgeting purposes</li>
+    <li>Scaling your team: Security Champions, delegation, automation and coaching</li>
+    <li>Developer Education - What to teach, how to teach, and why.</li>
+    <li>Setting Standards and Policies (with take home examples to start you off)</li>
+    <li>Metrics and Improvement - Learn which metrics really matter, how to measure, and then how to use your data to improve your program to reach maximum efficiency and security.</li>
+    <li>Goals: time to adjust, improve, and make a complete plan to achieve your AppSec goals.</li></ol>"
+- Type: Training
+  Trainers:
+    - Name: Jason Kent
+      Email: jason.kent@cequence.ai
+      Image: /assets/images/trainers/trainer-jason-kent.jpg
+      Twitter: cyber_nsa
+      Biography: For over the last 20 years, Jason has been ethically peering into 
+        Client Behavior, Wireless Networks, Web Applications, APIs and Cloud Systems, 
+        helping organizations secure their assets and intellectual property from 
+        unauthorized access.  As a consultant he's taken hundreds of organizations 
+        through difficult compliance mine fields, ensuring their safety.  As a 
+        researcher he has found flaws in consumer IOT systems and assisted in hardening 
+        them against external attacks.  At Cequence Security Jason does research, 
+        community outreach and supports efforts in identifying Automated Attacks against 
+        Web, Mobile, and API-based Applications to keep Cequence's customers safe.
+      TrainerId: jason_kent
+  Title: API Attacks Beyond the OWASP API Top 10
+  URL: /register/?id=sku_HOtty6RFWsLTAd
+  SectionId: sku_HOtty6RFWsLTAd
+  Description: "<strong>Learning Objectives:</strong><br>
+    Identify how API endpoints can be enumerated<br>
+    Understand API call structure<br>
+    Find Parameters that can be used to attack an API<br>
+    How to identify attack patterns<br>
+    <strong>Agenda:</strong><br>
+    <ul>
+    <li>Intros, Housekeeping, How it all works</li>
+    <li>What is an API</li>
+    <li>What is the OWASP API Top 10</li>
+    <li>Common platform architectures for APIs</li>
+    <li>A look at finding API endpoints
+        <ul>
+        <li>APK Tools</li>
+            <ul><li>Install and pull API endpoints from an Android application</li></ul> 
+        <li>Intercept Proxies</li>
+        <li>Any-Api</li></ul>
+    </li>
+    <li>API Requests and API Parameters
+        <ul>
+        <li>cURL/Intercept Proxies</li>
+        <li>API methods (Put, Post, Delete etc…)</li>
+        </ul>
+    </li>
+    <li>Attacker Tools</li>
+    <li>Common Attacks</li>
+    <ul>
+        <li>Account Take Over</li> 
+        <li>Inventory Take Over/Seat Spinning</li>
+        <li>Scraping</li>
+    </ul>
+    <li>Wrap-up</li></ul>"
+- Type: Training
+  Trainers:
+    - Name: Aleksandr Kolchanov
+      Email: pyrk1@yandex.ru
+      Image: /assets/images/trainers/trainer-aleksandr-kolchanov.jpg
+      Twitter: pyrk2142
+      Biography: Aleksandr Kolchanov is an independent security researcher and consultant. 
+        Ex penetration tester of a bank in Russia. He takes part in different bug bounty 
+        programs (PayPal, Facebook, Yahoo, Coinbase, Protonmail, Yandex, Privatbank). 
+        Aleksandr is interested in uncommon security issues, telecom problems, privacy, 
+        and social engineering. Speaker at PHDays 2018 and 2019, c0c0n 2018, DeepSec 2018 
+        and 2019, HiTB 2019, Infosec in the City 2019, OzSecCon 2019, Hacktivity 2019, No 
+        cON Name 2019 and BSides.
+      TrainerId: aleksandr_kolchanov
+  Title: "Training: attacks on IVR systems and Call centers in practice"
+  URL: /register/?id=sku_HOtvvExy76TAcK
+  SectionId: sku_HOtvvExy76TAcK
+  Description: "This training was created for everyone interested in the security of Call 
+    centers: from Bug Hunters to security engineers. Short plan:<br>
+    <ul>
+    <li>How to find and hack IVR system?</li>
+    <li>Financial attacks on Call centers</li>
+    <li>Social engineering</li>
+    <li>How to protect Call Center</li>
+    <li>Automation of security testing</li>
+    <li>Attacks on Call Centers infrastructure</li>
+    <li>Practical cases</li>
+    </ul>"
+- Type: Training
+  Trainers:
+    - Name: Mohammed Abdul Imran
+      Email: imran@practical-devsecops.com
+      Image: /assets/images/trainers/trainer-mohammed-imran.jpg
+      Twitter: secfigo
+      Biography: "Mohammed A. 'secfigo' Imran is the Founder and CEO of Practical DevSecOps 
+        and seasoned security professional with over a decade of experience in helping 
+        organizations in their Information Security Programs.<br> 
+        He has a diverse background in R&D, consulting, and product-based companies with a 
+        passion for solving complex security programs. Imran is the founder of Null 
+        Singapore, the most significant information security community in Singapore, where 
+        he has organized more than 60 events & workshops to spread security awareness.<br>
+        He was also nominated as a community star for being the go-to person in the 
+        community whose contributions and knowledge sharing has helped many professionals 
+        in the security industry.<br>
+        He is usually seen speaking and giving training in conferences like Blackhat, 
+        DevSecCon, AppSec, All Day DevOps, Nullcon, and many other international conferences."
+      TrainerId: mohammed_imran
+  Title: Continuous Compliance at DevOps speed
+  URL: /register/?id=sku_HOtw118RzSkqiw
+  SectionId: sku_HOtw118RzSkqiw
+  Description: "Have you experienced the challenge of communicating and collaborating with Compliance teams being as clear as mud?<br>
+    We've all been there. In this training session, we'll learn how to use CNCF OPA (Open 
+    Policy Agent) and Chef Inspec to verify the Compliance status of cloud resources 
+    against standards such as Cloud Security Alliance CCM (Cloud Security Matrix) and AWS 
+    Security Maturity Roadmap so we can help break some of the communication barriers with 
+    Compliance teams, as they get an immediate understanding of the compliance status of 
+    products and services.<br>
+    Compliance is a major driver for investing in security for most businesses, and with 
+    the growing number of systems and applications managing compliance of thousands of 
+    systems without automation is not practical and Compliance teams are under immense 
+    pressure to ensure successful audit outcomes, as failure to be compliant, can have 
+    significant business impact. With Compliance as Code we can increase the speed of 
+    delivery, mitigate lack of resources and time by-using checks across applications, 
+    provide faster feedback to engineers, scale to hundreds or thousands of systems and 
+    make the whole process easily auditable.<br>
+    In this training, we will learn how to create and verify the compliance checks, 
+    integrate them into CI/CD platform and also how we can leverage the use of metadata to 
+    tag resources with all the compliance checks and standards they're meeting as we deploy 
+    them in our cloud accounts in order to enable both engineering and compliance teams to 
+    have the visibility they require for assurance of their cloud security posture.<br>
+    The participants will perform all hands-on exercises in our state of the art browser 
+    based labs."
+- Type: Training
+  Trainers:
+    - Name: Dhamotharan
+      Email: dhamuvkv@gmail.com
+      Image: /assets/images/trainers/trainer-dhamotharan.png
+      Twitter: Dhamu_offi
+      Biography: "Dhamotharan is a seasoned security professional with over a decade worth 
+        of experience ranging from application security to infrastructure and now dealing 
+        with DevSecOps. He is currently working as a Lead Cyber Defence Analyst with PayU 
+        India. Some of his research ideas and technical advisories can be found in his blog. 
+        A security researcher, an active speaker and a bug hunter, discovered multiple Bug 
+        hunter in modern web application, His research has identified many vulnerabilities 
+        in over 200 organisations including US Department of Homeland Security, Google, 
+        Microsoft, Oracle, Slack, Sony, Sophos, Bit Defender, ING, NN-Group,& Cisco, Matomo 
+        etc. His works with various communities (OWASP Seasides, Bsides , Nullcon and National 
+        Cyber Safety and Security standards (india) and is passionate about increasing 
+        participation in Infosec space. he has been a speaker at OWASP Global Seasides 2020,
+        NCDR Conference). Dhamotharan also volunteers for the Member in National Cyber 
+        Safety & Security Standards(NCDRC), India and Lead Security Researcher in Bug 
+        Discover community. OWASP Erode Chapter Leader"
+      TrainerId: dhamotharan
+  Title: Server-Side Template Injection
+  URL: /register/?id=sku_HOtwph5R3gBWJ0
+  SectionId: sku_HOtwph5R3gBWJ0
+  Description: "The world is constantly changing and way of doing activities are 
+    continuously evolving. Earlier, injection was a word used to yield ‘remedy’ from 
+    threats but in these modern times of predominantly ongoing cybercrimes, that’s the 
+    same word causing ‘tragedy’ to people globally. One such grueling kind of it is the 
+    topic that I’m going to brief out right here named as 'Server Side Template Injection.'<br>
+    An injection attack that happens due improperly sanitization of user inputs through a 
+    template at the server side is called SSTI. This injection attack is more dangerous 
+    from both developer’s and security professional point of view as it can execute native 
+    functions from the user defined template. An example of a malicious expression could 
+    be {{system('whoami')}}, which will execute the whoami system command. Thus, this 
+    template injection attack can even lead to a Remote Code Exploitation. Many times, 
+    it can also compromise the entire web server.<br>
+    Isn’t this attack a nightmare for developers and security professionals? Without a 
+    doubt, it is!<br>
+    Hence to caution people on this, my presentation will reveal you the wisdom on how 
+    this attack works, the intensity of notoriety based on the various template types, 
+    effective tips for preventing this attack and other such."
+- Type: Training
+  Trainers:
+    - Name: Gunwant Singh
+      Email: gunwant.s@gmail.com
+      Image: /assets/images/trainers/trainer-gunwant-singh.png
+      Twitter: s_gunwant
+      Biography: Experienced information security professional with a demonstrated history 
+        of working in the application security industry. Strong engineering professional 
+        with practical skills in Penetration testing, code review, threat modelling, design 
+        review, mobile security testing, DevSecOps, RASP and Cloud Security. The instructor 
+        has delivered training in the past for OWASP Delhi and Houston chapters.
+      TrainerId: gunwant_singh
+  Title: Application Penetration Testing - Crash Course
+  URL: /register/?id=sku_HOtxSSoaKoOs7D
+  SectionId: sku_HOtxSSoaKoOs7D
+  Description: "Application Security training crash course is designed to make participants 
+    aware of common web application vulnerabilities and the impact they can have on 
+    businesses. The course also incorporates effective defence mechanisms and the use of 
+    best practices to mitigate the risk of attacks. The course focuses on the latest 
+    hacking attacks targeted against different platforms & networks. It also covers 
+    countermeasures to secure corporate applications. The course focuses on OWASP Top 10 
+    and other common vulnerabilities and risks."
+- Type: Training
+  Trainers:
+    - Name: Mauricio Tavares
+      Email: raubvogel@gmail.com
+      Image: /assets/images/trainers/trainer-mauricio-tavares.png
+      Twitter: 
+      Biography: Mauricio Tavares (BS Aerospace Engineering) has worked with small and 
+        large companies in education, finance, and medical fields building and protecting 
+        user data. Currently a researcher at RENCI involved in next generation network 
+        research and an instructor with the Chameleon experimental research platform, he 
+        has given talks and workshops at ISSA InfoSecCon, Southeast Linux Fest, and IEEE 
+        SoutheastCon.
+      TrainerId: mauricio_tavares
+  Title: Data Privacy and Security Assessment in the Cloud using MITRE ATT&CK and OWASP Tools
+  URL: /register/?id=sku_HOu87kx7Gg99qu
+  SectionId: sku_HOu87kx7Gg99qu
+  Description: "Most information security tools and techniques focus on proactive and 
+    reactive security measures to mitigate risk to information and information systems so 
+    unauthorized parties cannot access, modify, or delete this data. After all, the field 
+    is called ‘Information Security’. However, data security is only one aspect of the 
+    equation. If a database is breached, such as during the Equifax data breach of 2017, 
+    not only data is compromised or stolen, but this data may be associated with people 
+    (data privacy), and then regulations such as CCPA, PCI, HIPAA, and GDPR come into 
+    place.<br> 
+    Does your data security assessment include data privacy?<br>
+    Attendees will come away with an understanding of how to combine data privacy impact 
+    assessment (DPIA) methodology with data security assessment to produce a more rigorous 
+    and actionable toolset for management and weighing data privacy protections."
+- Type: Training
+  Trainers:
+    - Name: Matt Tesauro
+      Email: matt.tesauro@owasp.org
+      Image: /assets/images/trainers/trainer-matt-tesauro.png
+      Twitter: 10Security
+      Biography: Matt Tesauro is currently rolling out AppSec automation at a major financial 
+        institution and is a founder of 10Security. He is a lead for OWASP AppSec Pipeline & 
+        DefectDojo projects. The AppSec Pipeline project brings lessons from DevOps and 
+        Agile into Application Security while DefectDojo is an application that is the source 
+        of truth for DevSecOps activities and ingests output from 63 different security tools. 
+        Prior work included the Director of Community and Operations at the OWASP Foundation, 
+        Senior AppSec Engineer building an AppSec Pipeline and continuous security program for 
+        Duo Security, a Senior Software Security Engineer at Pearson and the Senior Product 
+        Security Engineer at Rackspace. He is also an Adjunct Professor for the University of 
+        Texas Computer Science department teaching the next generation of CS students about 
+        Application Security. Matt is a broadly experienced information security professional 
+        of 20+ years specializing in application and cloud security. He has also presented and 
+        provided training at various international industry events including DHS Software 
+        Assurance Workshop, OpenStack Summit, SANS AppSec Summit, AppSec US, EU and LATAM. His 
+        work has included security consulting, penetration testing, threat modeling, code 
+        reviews, training and teaching at the University of Texas and Texas A&M University. 
+        He has over 20 years of Linux experience and 7 years of using Linux containers, 
+        primarily Docker. Matt holds two degrees from Texas A&M University and several security 
+        and Linux certifications.
+      TrainerId: matt_tesauro
+  Title: OWASP DefectDojo - the Heart of your AppSec Automation
+  URL: /register/?id=sku_HOtzSxdpFJbvJB
+  SectionId: sku_HOtzSxdpFJbvJB
+  Description: You’re tasked with ‘doing AppSec’ for your company and you’ve got more apps 
+    and issues than you know how to deal with. How do you make sense of the different tools 
+    with different outputs for all your different apps? DefectDojo can be your one source 
+    of truth and become the heart of your AppSec automation program. DefectDojo grew out of 
+    a Product Security program 7 years ago and was created by AppSec people for AppSec 
+    people.  As you progress through this course, you'll learn how to deploy DefectDojo and 
+    make the most of of the many features it offers including it's REST-based API. 
+    DefectDojo can be your one source of truth for discovered security vulnerabilities, 
+    report generation, aggregation of over 60 different security tools, inventory of 
+    applications, tracking testing efforts and metrics on the AppSec program. DefectDojo 
+    was the heart of an AppSec automation effort that saw an increase in assessments from 
+    44 to 414 in two years.  Don't you want 9.4 times more output from your AppSec program?  
+    It's time to ditch spreadsheets and get DefectDojo.
