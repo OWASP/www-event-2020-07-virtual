@@ -123,6 +123,17 @@
                 "discountable": "True",
                 "display_order": "12"
             }
+        },
+        {
+            "id": "sku_HPAcROmtV0SrQP",
+            "name": "Training: Secrets of Secrets - Managing Secrets and Sensitive Information in Cloud Native Environments",
+            "amount": 49500,
+            "metadata": {
+                "type": "regular",
+                "description": "<p>The aim of this program is to delve deep into managing secrets and sensitive information with Cloud Native environments. We will look at some common security mistakes and anti-patterns and explore the various tools, techniques and approaches to securing secrets and sensitive information through hands-on labs quite extensively. <strong><em>Presented by Nithin Jois</em></strong></p>",
+                "discountable": "True",
+                "display_order": "13"
+            }
         }
     ]
 }
