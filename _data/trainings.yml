@@ -55,16 +55,14 @@
   Title: Solve Your Security Requirements with Keycloak
   URL: /register/?id=sku_HOtqQKlddOTSrk
   SectionId: sku_HOtqQKlddOTSrk
-  Description: "Have you started to create your Web Application?<br>
-    Have You tired of solving different security requirements?<br>
-    Like support of Brute Force Protection, Password Policy, Two-Factor Authentication etc.?<br>
-    We have the solution for you!<br>
-    Have you heard about Keycloak?<br>
-    Keycloak is open source Identity and Access Management solution.<br>
-    Please join the training and you will see how to adopt Keycloak.<br>
-    You will learn how to easy add to your Web Application different security 
-    features like Brute Force Protection, Password Policy, Two-Factor Authentication 
-    and more."
+  Description: "Have you started to create your Web Applications? I'm sure you already know that you have many security requirements, such as:<br>
+    • Brute Force Protection<br>
+    • Password Policy<br>
+    • Two-Factor Authentication<br>
+    • and more!<br>
+    Wouldn't it be easier to resolve all these security requirements with a single tool?<br>
+    We have exactly the solution you're looking for - Keycloak, an open source Identity and Access Management solution.<br>
+    Join this session, and learn how to adopt Keycloak and easily add as many security features as you wish."
 - Type: Training
   Trainers:
     - Name: Tanya Janca
