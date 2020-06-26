@@ -39,7 +39,7 @@ layout: event
 }
 </script>
 
-<!-- rebuild 12 -->
+<!-- rebuild 13 -->
 
 {{ site.data.event-details.pitch | markdownify }}
 
