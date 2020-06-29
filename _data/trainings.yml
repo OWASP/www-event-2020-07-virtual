@@ -16,9 +16,17 @@
   Title: "Hacking Modern Web apps: Master the Future of Attack Vectors"
   URL: /register/?id=sku_HOtoAiWFO6u23G
   SectionId: sku_HOtoAiWFO6u23G
-  Description: "All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your 
-        workplace, packed with exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued 
-        education via unlimited email support and lifetime access to training portal with step-by-step video recordings."
+  Description: "This course is a 100% hands-on deep dive into the OWASP Security Testing Guide and relevant items of the OWASP Application 
+    Security Verification Standard (ASVS), so this course covers and goes beyond the OWASP Top Ten.<br>
+    Long are the days since web servers were run by perl scripts. What is common between Walmart, eBay, PayPal, Microsoft, LinkedIn, Google 
+    and Netflix? They all use Node.js: JavaScript on the server.<br>
+    Modern Web apps share traditional attack vectors and also introduce new opportunities to threat actors. This course will teach you how 
+    to review modern web apps, showcasing Node.js but using techniques that will also work against any other web app platform. Ideal for 
+    Penetration Testers, Web app Developers as well as everybody interested in JavaScript/Node.js app security.<br>
+    All action, no fluff, improve your security analysis workflow and immediately apply these gained skills in your workplace, packed with 
+    exercises, extra mile challenges and CTF, self-paced and suitable for all skill levels, with continued education via unlimited email 
+    support and lifetime access to training portal with step-by-step video recordings and interesting apps to practice, including all future 
+    updates for free."
 - Type: Training
   Trainers:
     - Name: Keatron Evans
