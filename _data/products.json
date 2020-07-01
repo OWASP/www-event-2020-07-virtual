@@ -55,7 +55,7 @@
                 "type": "regular",
                 "description": "<p>In this 8-hour class we will talk about API attacks my company has seen against different types of platforms and compare common real-world attack types to the API Top 10.  I will break down the tools an resources the attackers have as well as the clues they leave as they run automated attacks against your APIs. <strong><em>Presented by Jason Kent</em></strong></p>",
                 "discountable": "True",
-                "display_order": "4"
+                "display_order": "2"
             }
         },
         {
