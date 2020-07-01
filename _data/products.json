@@ -99,7 +99,7 @@
                 "type": "regular",
                 "description": "<p>Application Security Crash Course is designed to make participants aware of common web application vulnerabilities and the impact they can have on businesses. The course teaches effective defence mechanisms and the use of best security practices on different platforms. It focuses on OWASP Top Ten and state-of-the-art hacking methodologies. <strong><em>Presented by Gunwant Singh</em></strong></p>",
                 "discountable": "True",
-                "display_order": "8"
+                "display_order": "9"
             }
         },
         {
