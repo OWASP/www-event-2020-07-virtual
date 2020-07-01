@@ -77,7 +77,7 @@
                 "type": "regular",
                 "description": "<p>In this training session, you will learn how to automate compliance using Compliance as Code best practices. We will use CNCF OPA (Open Policy Agent) and Inspec to verify the Compliance status of cloud resources against standards such as Cloud Security Alliance CCM so we can help break some of the communication barriers with Compliance teams. <strong><em>Presented by Mohammed A. Imran</em></strong></p>",
                 "discountable": "True",
-                "display_order": "5"
+                "display_order": "4"
             }
         },
         {
