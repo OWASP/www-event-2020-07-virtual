@@ -63,14 +63,13 @@
   Title: Solve Your Security Requirements with Keycloak
   URL: /register/?id=sku_HOtqQKlddOTSrk
   SectionId: sku_HOtqQKlddOTSrk
-  Description: "Have you started to create your Web Applications? I'm sure you already know that you have many security requirements, such as:<br>
-    • Brute Force Protection<br>
-    • Password Policy<br>
-    • Two-Factor Authentication<br>
-    • and more!<br>
-    Wouldn't it be easier to resolve all these security requirements with a single tool?<br>
-    We have exactly the solution you're looking for - Keycloak, an open source Identity and Access Management solution.<br>
-    Join this session, and learn how to adopt Keycloak and easily add as many security features as you wish."
+  Description: "Do you to create #Web #Applications? Are you tired of using separate 
+     tools for each #security requirement? Are you confused about how SAML, OIDC, and 
+     WebAuthn integrate into your applications? Register today for Michael Furman's July 
+     #AppSec summer training https://lnkd.in/gyY_zfG for a hands-on training session that 
+     will solve all your security requirements using #Keycloak: integrate Keycloak with 
+     Web applications, use leading SAML and OIDC providers for authentication, 
+     use WebAuthn (FIDO U2F USB tokens) for 2FA, and create your own custom Keycloak module."
 - Type: Training
   Trainers:
     - Name: Tanya Janca
