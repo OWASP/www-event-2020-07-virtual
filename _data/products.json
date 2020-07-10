@@ -88,7 +88,7 @@
                 "type": "regular",
                 "description": "<p>It’s due to improper sanitization of user inputs through a template. Dangerous from both developer’s and security folks concern as it can execute native functions from the user defined template. Eg: {system('whoami')} -&gt; execute -&gt; whoami system command. This attack can lead to RCE and even in entire web server compromise. <strong><em>Presented by Dhamotharan</em></strong></p>",
                 "discountable": "True",
-                "display_order": "5"
+                "display_order": "-20"
             }
         },
         {
