@@ -26,17 +26,6 @@
             }
         },
         {
-            "id": "sku_HOtqQKlddOTSrk",
-            "name": "Training: Solve Your Security Requirements with Keycloak",
-            "amount": 49500,
-            "metadata": {
-                "type": "regular",
-                "description": "<p>Do you create Web Applications? Are you tired of using separate tools for each security requirement? <br />\nKeycloak – the open source Identity and Access Management solution - may be just what you’re looking for! I will show you how you use Keycloak to implement all your security requirements, such as Brute Force Protection, Password Policy, and more. <strong><em>Presented by Michael Furman</em></strong></p>",
-                "discountable": "True",
-                "display_order": "-1"
-            }
-        },
-        {
             "id": "sku_HOts6ZxZnmJERL",
             "name": "Training: Application Security 101",
             "amount": 49500,
